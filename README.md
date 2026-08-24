@@ -1,9 +1,11 @@
 # Sistema-de-Controle-Financeiro
 Controle Financeiro Simplificado em Python
 Um sistema simples de controle de finanças pessoais executado via terminal, desenvolvido para registrar e acompanhar receitas, despesas e saldo atual.
+
 -------------------------------------------------------------------------------------------------------------------
 Sobre o Projeto
 Este projeto foi criado utilizando apenas conceitos fundamentais de Python, sendo ideal para iniciantes na linguagem ou para quem busca entender a lógica de manipulação de listas, dicionários e estruturas de controle (while, if/elif/else)
+
 -------------------------------------------------------------------------------------------------------------------
 Funcionalidades
 1 Adicionar Receita: Cadastra entradas financeiras (ex: salário, vendas, freelances).
@@ -17,6 +19,7 @@ Funcionalidades
 5 Ver Resumo: Exibe um balanço completo com total de entradas, total de saídas e o saldo final.
 
 6 Sair: Finaliza a execução do programa.
+
 -------------------------------------------------------------------------------------------------------------------
 Como Executar o Projeto
 Pré-requisitos
